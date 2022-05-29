@@ -1,6 +1,4 @@
-# Unity procedural game
-
-## IMPORTANT - A build version of this game is missing from this repo; I could not get the game to build. (More info below) 
+# Unity procedural game - IMPORTANT - A build version of this game is missing from this repo; I could not get the game to build. (More info below) 
 
 Simple endless runner style game with procedural generation. The score increases the further you travel. If you hit an obstacle and bounce too high up, the game will restart - falling off the level will also fail you.
 
