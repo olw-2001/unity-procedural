@@ -1,5 +1,7 @@
 # Unity procedural game
 
+# IMPORTANT - A build version of this game is missing from this repo; I could not get the game to build. (More info below) 
+
 Simple endless runner style game with procedural generation. The score increases the further you travel. If you hit an obstacle and bounce too high up, the game will restart - falling off the level will also fail you.
 
 The game uses a custiomised Perlin noise generation system with values such as persistance, lacunarity, and octaves all working to create a complex noise map and, as a result, a complex level.
@@ -14,8 +16,7 @@ The map was intended to be infinite via a chunk system, but this was not impleme
 ## Running the game
 This project does not require much computational power, so the resources required should be very low. **The exact requirements are not known**
 
-From the Unity editor, to build the game:
-**File > Build and Run**
+### **A build of this game is missing from this repo. Trying to build results in a lot of editor errors that I cannot not fix. The game is still working, but there is no build version.**
 
 To see the source code, assets, and inspector changes, open the project with Unity 2021.3.1f1.
 This version of Unity should also be used if any development changes are to be made.
