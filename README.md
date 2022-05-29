@@ -1,4 +1,4 @@
-# Unity procedural game
+# Unity procedural game ### **NOTE - A build of this game is missing from this repo. Trying to build results in a lot of ambiguous editor errors that I cannot fix in time. The game is still working, but there is no build version.**
 
 Simple endless runner style game with procedural generation. The score increases the further you travel. If you hit an obstacle and bounce too high up, the game will restart - falling off the level will also fail you.
 
@@ -12,7 +12,6 @@ The game initially intended to have an AI agent run through the level to validat
 The map was intended to be infinite via a chunk system, but this was not implemented due to time. The levels are a fixed size.
 
 ## Running the game
-### **NOTE - A build of this game is missing from this repo. Trying to build results in a lot of ambiguous editor errors that I cannot fix in time. The game is still working, but there is no build version.**
 
 This project does not require much computational power, so the resources required should be very low. **The exact requirements are not known**
 
