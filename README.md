@@ -13,6 +13,8 @@ The game initially intended to have an AI agent run through the level to validat
 
 The map was intended to be infinite via a chunk system, but this was not implemented due to time. The levels are a fixed size.
 
+The levels and their mesh colliders **do not re-generate in-game.** If you want to generate a new level, it has to be done in the editor, and the mesh collider component needs to be removed and added to reset the collision.
+
 ## Running the game
 This project does not require much computational power, so the resources required should be very low. **The exact requirements are not known**
 
