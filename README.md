@@ -19,7 +19,7 @@ The levels and their mesh colliders **do not re-generate in-game.** If you want 
 This project does not require much computational power, so the resources required should be very low. **The exact requirements are not known**
 
 To see the source code, assets, and inspector changes, open the project with Unity 2021.3.1f1.
-This version of Unity should also be used if any development changes are to be made.
+(This version of Unity was used to develop the game.)
 
 ## Gameplay and controls
 A & D - move left and right
